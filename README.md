@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour, je m'appelle Lacroix Yohann</h1>
+<h1 align="center">Bonjour, je m'appelle Yohann</h1>
 <h3 align="center">Un étudiant passionné par l'informatique.</h3>
 
 <h3 align="left">Connect with me:</h3>
